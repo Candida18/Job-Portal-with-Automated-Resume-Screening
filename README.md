@@ -1,1 +1,1 @@
-# Job-Portal-with-Automated-Resume-Screening
+# Job Portal with Automated Resume Screening
