@@ -15,7 +15,7 @@ import pdfplumber
 import os
 import webbrowser
 
-job_desc_dir = "Data/JobDesc/"
+job_desc_dir = "./Data/JobDesc/"
 job_description_names = os.listdir(job_desc_dir)
 print(job_description_names)
 
