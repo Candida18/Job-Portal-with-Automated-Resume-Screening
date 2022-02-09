@@ -49,7 +49,7 @@ def main():
 	st.image(image,use_column_width=True)
 
 		#############
-	st.subheader('Job hunting made easier:')
+	#st.subheader('Job hunting made easier:')
 
 	if len(Jds["name"]) <=1:
 		st.write('Only one Job post available. Hang on , Check later!')
