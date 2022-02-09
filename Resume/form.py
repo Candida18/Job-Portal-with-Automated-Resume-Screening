@@ -74,7 +74,7 @@ def main():
 	if docx_file is not None:
 
 		with open(
-			os.path.join("C:/Users/noron/ResumeOG/Data/Resume", docx_file.name), "wb"
+			os.path.join("./Resume/Data/Resume", docx_file.name), "wb"
 		) as f:
 			f.write((docx_file).getbuffer())
 
