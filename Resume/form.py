@@ -15,7 +15,7 @@ import pdfplumber
 import os
 import webbrowser
 
-job_desc_dir = "./Data/JobDesc/"
+job_desc_dir = "https://github.com/Candida18/Job-Portal-with-Automated-Resume-Screening/tree/main/Resume/Data/JobDesc/"
 job_description_names = os.listdir(job_desc_dir)
 print(job_description_names)
 
