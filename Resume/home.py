@@ -45,8 +45,8 @@ def main():
 # 	lottie_rscreen = load_lottieurl(lottie_url_rscreen )
 # 	st_lottie(lottie_rscreen, key="homegif",height="350px")
 
-image = Image.open("Images/firstimage.png")
-st.image(image,use_column_width=True)
+	image = Image.open("Images/firstimage.png")
+	st.image(image,use_column_width=True)
 
 		#############
 	st.subheader('Job hunting made easier:')
