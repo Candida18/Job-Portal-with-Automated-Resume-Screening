@@ -7,9 +7,9 @@ import streamlit as st
 import pandas as pd
 import time
 import requests
-import streamlit_lottie
-from streamlit_lottie import st_lottie
-from streamlit_lottie import st_lottie_spinner
+# import streamlit_lottie
+# from streamlit_lottie import st_lottie
+# from streamlit_lottie import st_lottie_spinner
 import plotly.graph_objects as go
 import csv
 import os
