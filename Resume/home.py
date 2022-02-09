@@ -34,16 +34,19 @@ def main():
 	Jds = pd.read_csv('CSV/JobDesc_data.csv')
 	#jds = pd.read_csv('jobdesc.csv')
 	st.markdown("<h1 style='text-align:center;'>Welcome to ScreenRes</h1>", unsafe_allow_html=True)
-	def load_lottieurl(url: str):
-		r = requests.get(url)
-		if r.status_code !=200:
-			return None
-		return r.json()
+# 	def load_lottieurl(url: str):
+# 		r = requests.get(url)
+# 		if r.status_code !=200:
+# 			return None
+# 		return r.json()
 
-	lottie_url_rscreen = "https://assets9.lottiefiles.com/packages/lf20_azmnf6vt.json"
+# 	lottie_url_rscreen = "https://assets9.lottiefiles.com/packages/lf20_azmnf6vt.json"
 
-	lottie_rscreen = load_lottieurl(lottie_url_rscreen )
-	st_lottie(lottie_rscreen, key="homegif",height="350px")
+# 	lottie_rscreen = load_lottieurl(lottie_url_rscreen )
+# 	st_lottie(lottie_rscreen, key="homegif",height="350px")
+
+image = Image.open("Images/firstimage.png")
+st.image(image,use_column_width=True)
 
 		#############
 	st.subheader('Job hunting made easier:')
