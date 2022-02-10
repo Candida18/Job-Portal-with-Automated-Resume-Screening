@@ -105,7 +105,7 @@ soupsieve
 spacy==3.1.1
 spacy-legacy==3.0.8
 SpeechRecognition==3.8.1
-sqlparse==0.4.1
+sqlparse
 srsly==2.4.1
 streamlit
 tenacity==8.0.1
