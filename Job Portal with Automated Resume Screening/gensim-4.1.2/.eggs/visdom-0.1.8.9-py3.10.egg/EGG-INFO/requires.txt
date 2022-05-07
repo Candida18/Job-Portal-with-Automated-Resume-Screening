@@ -1,0 +1,10 @@
+jsonpatch
+numpy>=1.8
+pillow
+pyzmq
+requests
+scipy
+six
+torchfile
+tornado
+websocket-client

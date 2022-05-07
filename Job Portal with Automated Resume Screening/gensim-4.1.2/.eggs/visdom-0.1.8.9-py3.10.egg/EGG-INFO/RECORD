@@ -1,0 +1,15 @@
+visdom/VERSION,sha256=SI1RqrwUo33ErE4UVcuMouV2G27Wn_vyODFu6H9uJTU,8
+visdom/__init__.py,sha256=YpVWF9m6lwjm3MLjDusouhB77l3YBCWyzf3vSZGqTcc,81719
+visdom/__init__.pyi,sha256=kRFlnenySiOo2qDsy05YmjeiULhD6YXYdFLHHRpjH6A,5942
+visdom/py.typed,sha256=ceCO50sMT23Zedfhc9IoS01WdozPzQbTvNA2gFEjyVI,114
+visdom/server.py,sha256=L0R2piVg-kSgU5jlAcGke0Y7m289kQxgYDkcNknORYM,67447
+visdom/static/index.html,sha256=gi3zbnR1BXxHAR8k8eP0Ku7Ssvs0pdztpu0p9TiRfuc,2106
+visdom/static/login.html,sha256=jQVE-G5q_0ElMAFZD5pWlOUbaE7DbWKgF269jC3o198,2671
+visdom/static/css/login.css,sha256=TZwXAQ3oIv0ugmIVXHARbz7-GTlWk4lj0Re_atcdWcA,995
+visdom/static/css/style.css,sha256=ENObCfV4YKqflEmOwslY19kD1B2UMoZpjNIi8b5vxmc,4010
+visdom/static/js/main.js,sha256=8NIqKvDpxddrFbnNWo7Read7-oCYPiyRGp1h9mClvus,1773908
+visdom-0.1.8.9.dist-info/METADATA,sha256=boQeNefoqNEm9K3VStD5D5UDBvmDEPY7oLY8EPFOHh0,38386
+visdom-0.1.8.9.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+visdom-0.1.8.9.dist-info/entry_points.txt,sha256=nb06_9KZ4ZDgde5PjG7R7nawB2pZpF9sAsGHklNWXfI,67
+visdom-0.1.8.9.dist-info/top_level.txt,sha256=Xm7yYXuRcfWeuIyCb6cVUibXCbVSKMgPlbitPY7p9z0,7
+visdom-0.1.8.9.dist-info/RECORD,,

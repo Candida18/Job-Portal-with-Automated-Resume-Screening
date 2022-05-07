@@ -1,0 +1,11 @@
+
+[docs]
+Sphinx>=3.4
+sphinx-rtd-theme>=0.5
+
+[optional]
+python-socks
+wsaccel
+
+[test]
+websockets
