@@ -75,7 +75,7 @@ plotly
 preshed
 prometheus-client
 prompt-toolkit==3.0.19
-protobuf==3.17.3
+protobuf==3.18.3
 ptyprocess==0.7.0
 pyarrow==4.0.1
 pycodestyle==2.7.0
